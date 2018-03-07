@@ -5,4 +5,23 @@ Adding Custom Transitions to Ionic Modals
 
 ![Demo](https://www.vistaran.tech/blog/wp-content/uploads/2018/03/custom-modal-transitions.gif)
 
-Find details in our blog article on how to use it here: [Ionic Modal Custom Transitions](https://www.vistaran.tech/blog/ionic-modals-custom-transitions/).
+### Transitions and Usage
+
+All transitions classes are located under `transitions` folder. These are the available Transition classes:
+
+- `modal-translate-up-enter`
+- `modal-translate-up-leave`
+- `modal-scale-up-enter`
+- `modal-scale-up-leave`
+
+You can use existing transition classes like this when you create a modal:
+
+````javascript
+var modal = this.modalCtrl.create(SampleModalPage, {}, {
+  enterAnimation: '<ENTER TRANSITION CLASS NAME>',
+  leaveAnimation: '<LEAVE TRANSITION CLASS NAME>'
+});
+````
+
+
+Find complete details on how to use it in our blog article on how to use it here: [Ionic Modal Custom Transitions](https://www.vistaran.tech/blog/ionic-modals-custom-transitions/).
