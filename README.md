@@ -1,9 +1,9 @@
 # ionic-modal-custom-transitions
 Adding Custom Transitions to Ionic Modals
 
-![Ionic – Adding Custom Transitions to Modals](https://www.vistaran.tech/blog/wp-content/uploads/2018/03/Ionic-Angular5-modal-transitions.png "Ionic - Adding Custom Transitions to Modals")
+![Ionic – Adding Custom Transitions to Modals](https://www.vistaran.tech/wp-content/uploads/2018/03/Ionic-Angular5-modal-transitions.png "Ionic - Adding Custom Transitions to Modals")
 
-![Demo](https://www.vistaran.tech/blog/wp-content/uploads/2018/03/custom-modal-transitions.gif)
+![Demo](https://www.vistaran.tech/wp-content/uploads/2018/03/custom-modal-transitions.gif)
 
 ### Transitions and Usage
 
